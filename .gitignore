@@ -1,0 +1,12 @@
+# 忽略 kangyang/docs 目錄
+kangyang/docs/
+
+# 常見系統文件
+.DS_Store
+Thumbs.db
+
+# 編輯器和 IDE 文件
+.idea/
+.vscode/
+*.swp
+*.swo
