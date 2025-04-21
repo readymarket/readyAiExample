@@ -1,0 +1,128 @@
+/page/about.html # Company introduction and overview
+/page/our-customers.html # Introduction of major customers and case studies
+/page/history.html # Company history and milestones
+/page/certification.html # Certification (ISO9001, FSC, patents, etc.)
+/page/production-process.html # Production process explanation
+/page/prepress-information.html # Prepress information and file preparation guidelines
+/page/quality-control.html # Quality management and inspection process (ISO procedures)
+/page/service-flow.html # Customized service flow and order handling
+/page/competitive-advantages.html # Core advantages and differentiation
+/page/competitor-analysis.html # Competitor analysis (domestic and international)
+/page/contact-us.html # Contact information
+
+/category/category.html # Product category overview
+/category/double-layer-sticker.html # Double Layer Sticker category overview
+/category/single-sticker.html # Single Sticker category overview
+/category/double-sided-sticker.html # Double-Sided Sticker category overview
+/category/booklet-label.html # Booklet Label category overview
+/category/special-material-sticker.html # Special Material Sticker category overview
+/category/share-stickers.html # Share Stickers category overview
+/category/product-accessories.html # Product Accessories/materials overview
+
+/products/2-ply-label.html # 2 Ply Label product page (double-layer label, replaces manual, collectible)
+/products/2-ply-scratch-sticker.html # 2 Ply Scratch Sticker product page (double-layer scratch sticker, patent)
+/products/double-sided-labels-with-serial-numbers-and-scratch-off-ink.html # Double Sided Labels With Serial Numbers And Scratch-Off Ink (patent, lottery/promotions)
+/products/hidden-label-inside-2-ply-label.html # Hidden Label Inside 2 Ply Label (patent, collectible inner layer)
+/products/booklet-label.html # Booklet Label (up to 9 pages, small packaging, info integration, patent)
+/products/index-booklet-label-sticker.html # Index Booklet Label/Sticker (booklet index, reusable, portable)
+/products/pop-up-2-sides-printing-stickers.html # Pop Up 2 Sides Printing Stickers (pop-up, QR code, customizable, patent)
+/products/3d-butterfly-stickers.html # 3D Butterfly Stickers (custom shape, public/marketing use)
+/products/high-quality-pattern-cold-foil-printing.html # High Quality Pattern Cold Foil Printing (high-end metallic finish)
+/products/pop-up-theater-sticker.html # Pop-Up Theater Sticker (interactive theater sticker, 3 layers)
+/products/peel-open-surprise-sticker.html # Peel Open Surprise Sticker (collectible marketing stickers inside)
+/products/waterproof-and-reusable-sticker-set.html # Waterproof And Reusable Sticker Set (washable, reusable, parents’ favorite)
+/products/polycarbonate-label-pc-label.html # Polycarbonate Label/PC Label (wear/scratch-resistant, electronics, panels)
+/products/uv-resistant-stickers.html # UV Resistant Stickers (sunlight-resistant, for outdoor/car)
+/products/fsc-label.html # FSC Label (environmentally friendly, FSC certified)
+/products/void-anti-counterfeit-label.html # VOID Anti Counterfeit Label (anti-tampering/counterfeit, hidden design)
+/products/brittle-label.html # Brittle Label (eggshell, crack on removal, warranty/protection)
+/products/silky-poly-silver-label.html # Silky Poly Silver Label (hairline metallic, replaces metal tags)
+/products/blanc-paper-label.html # Blanc Paper Label (eco-friendly, wine/cosmetic, water ripple texture)
+/products/textured-paper.html # Textured Paper (crinkled, water-resistant, good adhesion)
+/products/lenticular-cat-eyes-effect-label.html # Lenticular Cat Eyes Effect Label (3D convex lens, visual effect)
+/products/transparent-pet-pvc-label.html # Transparent PET/PVC Label (transparent, waterproof, bottles/glass)
+/products/laser-label.html # Laser Label (rainbow effect, anti-counterfeit, strong adhesion)
+/products/glossy-gold-aluminum-foil-label.html # Glossy Gold Aluminum Foil Label (metal look, food, machinery)
+/products/glossy-silver-aluminum-foil-label.html # Glossy Silver Aluminum Foil Label (metal look, high opacity)
+/products/matte-gold-aluminum-foil-label.html # Matte Gold Aluminum Foil Label (matte metallic, good coverage)
+/products/matte-silver-aluminum-foil-label.html # Matte Silver Aluminum Foil Label (matte metallic, good coverage)
+/products/glossy-gold-polyester-label.html # Glossy Gold Polyester Label (shiny gold, tear-resistant)
+/products/glossy-silver-polyester-label.html # Glossy Silver Polyester Label (shiny silver, tear-resistant)
+/products/matte-gold-polyester-label.html # Matte Gold Polyester Label (matte gold, tear-resistant)
+/products/matte-silver-polyester-label.html # Matte Silver Polyester Label (matte silver, tear-resistant)
+/products/aluminum-foil-sticker.html # Aluminum Foil Sticker (high temperature, waterproof, sealing)
+/products/frosted-finish.html # Frosted Finish (pearl pattern, frosted texture)
+/products/embossing-debossing.html # Embossing / Debossing (3D effect, texture enhancement)
+/products/color-printing.html # Color Printing (customizable, CMYK/Pantone)
+/products/gold-foil-stamping-silver-foil-stamping-other-colors-hot-stamping.html # Gold Foil Stamping / Silver Foil Stamping / Other Colors Hot Stamping (metallic effect)
+/products/serial-number-garbled-code-qr-code.html # Serial Number / Garbled Code / QR Code (variable data, Excel import)
+/products/glossy-matt-varnish.html # Glossy/Matt Varnish (coating, finish options)
+/products/scratch-off-ink.html # Scratch-Off Ink (dynamic QR code, lottery, under scratch area)
+/products/partial-adhesive-stickers.html # Partial Adhesive Stickers (stand-up, custom position, shelf promotion)
+/products/piggyback-label-2-ply-reusable-label.html # Piggyback Label / 2 Ply Reusable Label (reusable, cost-saving, eco-friendly)
+/products/semi-adhesive-double-sided-scratch-label.html # Semi-Adhesive Double-Sided Scratch Label (semi-adhesive, lottery, marketing)
+/products/3d-folding-sticker.html # 3D Folding Sticker (interactive, creative shape)
+
+ /application/application.html # Application industry overview
+/application/food-industry.html # Food Industry application (attractive, increases exposure)
+/application/beverage-industry.html # Beverage Industry application (promotion, QR/scratch-off)
+//application/pharmaceutical-industry.html # Pharmaceutical Industry (bottle/can/box, booklet/two-layer/three-sided label)
+/application/contact-lens.html # Contact Lens (manuals/instruction, multi-page/three-sided labels)
+/application/chemical-industry.html # Chemical Industry (complex info, booklet/two-layer/three-sided label)
+/application/beauty-cosmetic-industry.html # Beauty/Cosmetic Industry (exquisite, shelf appeal)
+/application/household-goods.html # Household Goods (double-sided, hot-stamped, stand-up, shelf display)
+/application/wine-label.html # Wine Label (double-sided, seamless label integration)
+/application/3c-electronics-industry.html # 3C/Electronics Industry (barcode, warranty, anti-counterfeit, laser, fragile, two-layer labels)
+/application/stationery-and-gifts.html # Stationery And Gifts (3D, booklet, creative, multi-layer)
+/application/pet-gifts.html # Pet Gifts (exquisite, differentiates brand, joy for owners and pets)
+
+ /printing-knowledge/printing-knowledge.html # Printing knowledge overview
+/printing-knowledge/production-process.html # Production process details
+/printing-knowledge/prepress-information.html # Prepress and file guidelines
+/printing-knowledge/material-introduction.html # Material introduction overview
+/printing-knowledge/special-printing.html # Special printing overview
+/printing-knowledge/art-paper-label.html # Art Paper Label (common, writable, not waterproof)
+/printing-knowledge/wood-free-paper-label.html # Wood-Free Paper Label (rough, writable, not waterproof)
+/printing-knowledge/kraft-paper-label.html # Kraft Paper Label (brown, unique, writable, low waterproof)
+/printing-knowledge/glossy-white-synthetic-label.html # Glossy White Synthetic Label (tear-resistant, waterproof, for trademarks/packaging)
+/printing-knowledge/matte-white-synthetic-label.html # Matte White Synthetic Label (tear-resistant, waterproof, scratch-resistant)
+/printing-knowledge/glossy-white-polyester-label.html # Glossy White Polyester Label (white PET, waterproof, tear-resistant)
+/printing-knowledge/transparent-polyester-label.html # Transparent Polyester Label (transparent PET, waterproof, tear-resistant)
+/printing-knowledge/transparent-polyester-label-transparent.html # Transparent Polyester Label (Transparent) (transparent PET, for bottles/glass)
+/printing-knowledge/transparent-rigid-pvc-label.html # Transparent Rigid PVC Label (transparent PVC, stretchable)
+/printing-knowledge/glossy-gold-aluminum-foil-label.html # Glossy Gold Aluminum Foil Label (gold paint, food/machinery)
+/printing-knowledge/glossy-silver-aluminum-foil-label.html # Glossy Silver Aluminum Foil Label (silver, shiny, food/electronics)
+/printing-knowledge/matte-gold-aluminum-foil-label.html # Matte Gold Aluminum Foil Label (matte gold, metallic)
+/printing-knowledge/matte-silver-aluminum-foil-label.html # Matte Silver Aluminum Foil Label (matte silver, metallic)
+/printing-knowledge/glossy-gold-polyester-label.html # Glossy Gold Polyester Label (shiny gold, tear-resistant)
+/printing-knowledge/glossy-silver-polyester-label.html # Glossy Silver Polyester Label (shiny silver, tear-resistant)
+/printing-knowledge/matte-gold-polyester-label.html # Matte Gold Polyester Label (matte gold, tear-resistant)
+/printing-knowledge/matte-silver-polyester-label.html # Matte Silver Polyester Label (matte silver, tear-resistant)
+/printing-knowledge/silky-polysilver.html # Silky PolySilver (hairline metallic, replaces metal tag)
+/printing-knowledge/aluminum-foil-sticker.html # Aluminum Foil Sticker (anti-oxidation, waterproof, sealing)
+/printing-knowledge/lenticular-cat-eyes-effect-label.html # Lenticular Cat Eyes Effect Label (3D effect, special visual)
+/printing-knowledge/laser-label.html # Laser Label (rainbow color, anti-counterfeit)
+/printing-knowledge/laser-label-fsc.html # Laser Label(FSC) (FSC certified, rainbow shine)
+/printing-knowledge/blanc-paper-label.html # Blanc Paper Label (eco-friendly, water ripple, wine/cosmetic)
+/printing-knowledge/static-electricity-white.html # Static Electricity(White) (printable, residue-free, reusable)
+/printing-knowledge/static-electricity-transparent.html # Static Electricity(Transparent) (transparent, residue-free, reusable)
+/printing-knowledge/brittle-label.html # Brittle Label (eggshell, warranty, protection)
+/printing-knowledge/thermal-sensitive-label.html # Thermal Sensitive Label (heat/oil/abrasion resistant)
+/printing-knowledge/fluorescent-paper.html # Fluorescent Paper (discount/display tags)
+/printing-knowledge/textured-paper.html # Textured Paper (crinkled, water-resistant)
+/printing-knowledge/japanese-paper.html # Japanese Paper (Xuan paper texture, hot stamping, charm)
+/printing-knowledge/polycarbonate-label-pc-label.html # Polycarbonate Label/PC Label (wear/scratch-resistant, electronics)
+
+ /product-videos/product-videos.html # Product videos overview
+/product-videos/double-layer-three-sided-promotional-coupon-label.html # Double Layer Three-Sided Promotional Coupon Label video
+/product-videos/piggyback-label-2-ply-reusable-label.html # Piggyback Label / 2 Ply Reusable Label video
+/product-videos/hidden-label-inside-2-ply-label.html # Hidden Label Inside 2 Ply Label video
+/product-videos/semi-adhesive-double-sided-scratch-label.html # Semi-Adhesive Double-Sided Scratch Label video
+/product-videos/booklet-label.html # Booklet Label video
+/product-videos/pop-up-theater-sticker.html # Pop-Up Theater Sticker video
+/product-videos/waterproof-and-reusable-sticker-set.html # Waterproof And Reusable Sticker Set video
+/product-videos/index-booklet-label-sticker.html # Index Booklet Label Sticker video
+/product-videos/3d-folding-sticker.html # 3D Folding Sticker video
+/product-videos/peel-open-surprise-sticker.html # Peel Open Surprise Sticker video
+
+/privacy-policy.html # Privacy policy
