@@ -1,0 +1,101 @@
+/page/about.html # 關於康揚公司介紹
+/page/history.html # 公司沿革
+/page/team.html # 團隊介紹
+/page/certification.html # 品質認證與專利（ISO9001、FSC、專利證書展示）
+/page/production-process.html # 生產流程與印刷技術說明
+/page/customized-service.html # 客製化設計與專屬服務流程
+/page/contact_us.html # 聯繫我們
+/page/category.html # 產品分類總覽
+/page/application.html # 應用案例與產業解決方案
+/page/printing-knowledge.html # 印刷知識與工藝教學
+/page/environmental.html # 環保與永續經營措施（FSC等內容）
+
+/category/single-sided-label.html # 單面標籤分類介紹
+/category/double-sided-label.html # 雙面標籤分類介紹
+/category/double-layer-label.html # 雙層標籤分類介紹
+/category/booklet-label.html # 書冊/多頁標籤分類介紹
+/category/special-material-label.html # 特殊材質標籤分類介紹
+/category/anti-counterfeit-label.html # 防偽標籤分類介紹
+/category/promotion-label.html # 促銷/互動標籤分類介紹
+/category/3d-label.html # 3D/立體標籤分類介紹
+/category/environmental-label.html # 環保標籤分類介紹
+/category/application-industry.html # 產業應用分類
+/category/printing-process.html # 加工工藝與印刷流程分類
+/category/material.html # 標籤材料分類介紹
+
+/products/2-ply-label-sticker.html # 2 Ply Label Sticker（雙層貼紙）產品介紹
+/products/2-ply-scratch-sticker.html # 2 Ply Scratch Sticker（雙層刮刮貼紙）產品介紹
+/products/booklet-sticker.html # Booklet Sticker（書冊式貼紙）產品介紹
+/products/booklet-label.html # Booklet Label（書本型標籤）產品介紹
+/products/index-booklet-label-sticker.html # Index Booklet Label Sticker 產品介紹
+/products/pop-up-theater-sticker.html # Pop-Up Theater Sticker（立體劇場貼紙）產品介紹
+/products/peel-open-surprise-sticker.html # Peel Open Surprise Sticker（揭開驚喜貼紙）產品介紹
+/products/piggyback-label.html # Piggyback Label（雙層可重複使用標籤）產品介紹
+/products/3d-folding-sticker.html # 3D Folding Sticker（3D摺疊貼紙）產品介紹
+/products/lenticular-cat-eyes-effect-label.html # Lenticular Cat Eyes Effect Label（透鏡貓眼效果標籤）產品介紹
+/products/laser-label.html # Laser Label（雷射標籤）產品介紹
+/products/void-anti-counterfeit-label.html # VOID Anti-counterfeit Label（VOID防偽標籤）產品介紹
+/products/brittle-label.html # Brittle Label（易碎標籤）產品介紹
+/products/matte-silver-aluminum-foil-label.html # Matte Silver Aluminum Foil Label（霧面銀鋁箔標籤）產品介紹
+/products/glossy-gold-aluminum-foil-label.html # Glossy Gold Aluminum Foil Label（亮面金鋁箔標籤）產品介紹
+/products/glossy-silver-aluminum-foil-label.html # Glossy Silver Aluminum Foil Label（亮面銀鋁箔標籤）產品介紹
+/products/silky-poly-silver-label.html # Silky Poly Silver Label（絲滑聚酯銀標籤）產品介紹
+/products/matte-white-synthetic-label.html # Matte White Synthetic Label（啞白合成標籤）產品介紹
+/products/glossy-white-synthetic-label.html # Glossy White Synthetic Label（光面白色合成標籤）產品介紹
+/products/glossy-gold-polyester-label.html # Glossy Gold Polyester Label（亮金聚酯標籤）產品介紹
+/products/matte-gold-polyester-label.html # Matte Gold Polyester Label（啞金聚酯標籤）產品介紹
+/products/glossy-silver-polyester-label.html # Glossy Silver Polyester Label（光澤銀聚酯標籤）產品介紹
+/products/matte-silver-polyester-label.html # Matte Silver Polyester Label（啞銀聚酯標籤）產品介紹
+/products/transparent-polyester-label.html # Transparent Polyester Label（透明聚酯標籤）產品介紹
+/products/static-electricity-sticker.html # Static Electricity Sticker（靜電貼紙）產品介紹
+/products/kraft-paper-label.html # Kraft Paper Label（牛皮紙標籤）產品介紹
+/products/blanc-paper-label.html # Blanc Paper Label（無塗佈白色藝術紙標籤）產品介紹
+/products/art-paper-label.html # Art Paper Label（美術紙標籤）產品介紹
+/products/wood-free-paper-label.html # Wood-Free Paper Label（無木紙標籤）產品介紹
+/products/textured-paper-label.html # Textured Paper Label（紋理紙標籤）產品介紹
+/products/fluorescent-paper-label.html # Fluorescent Paper Label（螢光紙標籤）產品介紹
+/products/polycarbonate-label.html # Polycarbonate Label（PC標籤）產品介紹
+/products/double-layer-sticker.html # Double Layer Sticker（雙層貼紙）產品介紹
+/products/double-sided-sticker.html # Double Sided Sticker（雙面貼紙）產品介紹
+/products/partial-adhesive-sticker.html # Partial Adhesive Sticker（局部黏著貼紙）產品介紹
+/products/uv-resistant-sticker.html # UV Resistant Sticker（抗UV貼紙）產品介紹
+/products/frosted-finish.html # Frosted Finish（磨砂加工貼紙）產品介紹
+/products/scratch-off-ink.html # Scratch-Off Ink（刮刮樂油墨）產品介紹
+/products/random-serial-qr-code-label.html # Random Serial QR Code Label（隨機序號QR碼標籤）產品介紹
+/products/hidden-label-inside-2-ply-label.html # Hidden Label Inside 2 Ply Label（2層標籤內部隱藏標籤）產品介紹
+/products/embossing-debossing-label.html # Embossing/Debossing Label（壓印/凹印標籤）產品介紹
+/products/special-material-sticker.html # Special Material Sticker（特殊材質貼紙）產品介紹
+/products/3d-butterfly-stickers.html # 3D Butterfly Stickers（3D蝴蝶貼紙）產品介紹
+/products/peel-open-surprise-stickers.html # Peel Open Surprise Stickers（揭開驚喜貼紙-多組）產品介紹
+/products/double-layer-three-sided-promotional-coupon-label.html # Double Layer Three Sided Promotional Coupon Label（雙層三面促銷標籤）產品介紹
+/products/transparent-pvc-label.html # Transparent PVC Label（透明PVC標籤）產品介紹
+/products/fsc-verified-label.html # FSC Verified Label（FSC環保標籤）產品介紹
+
+/category/food-industry.html # 食品產業應用標籤解決方案
+/category/beverage-industry.html # 飲料產業應用標籤解決方案
+/category/pharmaceutical-industry.html # 製藥產業應用標籤解決方案
+/category/beauty-cosmetic-industry.html # 美妝/化妝品產業應用標籤解決方案
+/category/3c-electronics-industry.html # 3C電子產業應用標籤解決方案
+/category/household-goods.html # 家用品產業標籤解決方案
+/category/chemical-industry.html # 化工產業標籤解決方案
+/category/stationery-and-gifts.html # 文具與禮品產業標籤解決方案
+/category/pet-gifts.html # 寵物禮品產業標籤解決方案
+/category/wine-label.html # 酒標產業標籤解決方案
+
+/category/foil-label.html # 鋁箔標籤分類介紹
+/category/laser-label-material.html # 雷射標籤材料分類介紹
+/category/paper-label.html # 紙類標籤材料分類介紹
+/category/polyester-label.html # 聚酯標籤材料分類介紹
+/category/synthetic-label.html # 合成標籤材料分類介紹
+/category/pvc-label.html # PVC標籤材料分類介紹
+/category/special-effect-label.html # 特殊效果標籤分類介紹
+/category/environmental-material-label.html # 環保材料標籤分類介紹
+/category/embossing-label.html # 壓印標籤分類介紹
+/category/scratch-off-label.html # 刮刮樂標籤分類介紹
+/category/variable-data-label.html # 可變數據標籤分類介紹
+
+/products/booklet-label-videos.html # Booklet Label（書本標籤）產品宣傳影片
+/products/product-videos.html # 標籤產品專業影片示範
+
+/page/privacy-policy.html # 隱私政策說明
+/page/prepress-information.html # 印前資訊與專業術語說明
