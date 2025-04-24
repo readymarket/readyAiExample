@@ -1,0 +1,135 @@
+/about/company.html # 公司簡介與發展歷程
+/about/history.html # 公司沿革與技術專長介紹
+/about/awards.html # 企業榮譽與專利認證
+/about/team.html # 團隊介紹與專業背景
+
+/category/industrial-equipment.html # 工業專用控濕與防潮設備分類
+/category/industrial-dry-cabinet.html # 工業級電子防潮櫃分類
+/category/custom-nitrogen-cabinet.html # 客製化氮氣櫃與多功能設計分類
+/category/semi-industry-equipment.html # 半導體產業專用設備分類
+/category/pcb-industry-equipment.html # 印刷電路板產業專用設備分類
+/category/museum-equipment.html # 博物館展示與庫房專用設備分類
+/category/household-dry-cabinet.html # 家用電子防潮櫃系列分類
+/category/institution-school-dry-cabinet.html # 機關學校防潮與控濕設備分類
+/category/fire-moisture-proof.html # 防火防潮櫃系列分類
+/category/archive-protection.html # 檔案防潮與專業儲存設備分類
+/category/laboratory-dry-cabinet.html # 實驗室專用電子防潮櫃分類
+/category/magnetic-free-cabinet.html # 無磁系列電子防潮櫃分類
+/category/humidity-control-cabinet.html # 恆溫恆濕控濕展櫃分類
+/category/humidity-control-mobile-cabinet.html # 典藏移動櫃與櫃架系統分類
+/category/humidity-control-suspension-board.html # 懸吊式掛畫板與專用設備分類
+/category/humidity-control-glove-box.html # 手套櫃與密閉加工控濕設備分類
+/category/hepa-dehumidification-cabinet.html # HEPA除濕藥品櫃工業設備分類
+/category/dry-box.html # Dry Box產業應用分類
+/category/frozen-filmsystem.html # 冷凍除蟲系統及膠捲冷凍保存分類
+/category/oxygen-control-system.html # 氧氣/氮氣濃度控制系統分類
+/category/iot-humidity-control.html # IoT溫濕度監控及智能系統分類
+/category/solution.html # 產業應用解決方案分類
+/category/service.html # 專業服務分類
+
+/products/bk138a.html # Bossmen攝影家用電子防潮櫃 BK138(A) 產品內容頁
+/products/bk238.html # Bossmen攝影家用電子防潮櫃 BK238 產品內容頁
+/products/bk238a.html # Bossmen攝影家用電子防潮櫃 BK238(A) 產品內容頁
+/products/bk198.html # Bossmen攝影家用電子防潮櫃 BK198 產品內容頁
+/products/bk198a.html # Bossmen攝影家用電子防潮櫃 BK198(A) 產品內容頁
+/products/bk158.html # Bossmen攝影家用電子防潮櫃 BK158 產品內容頁
+/products/bk158a.html # Bossmen攝影家用電子防潮櫃 BK158(A) 產品內容頁
+/products/bk98.html # Bossmen攝影家用電子防潮櫃 BK98 產品內容頁
+/products/bk98a.html # Bossmen攝影家用電子防潮櫃 BK98(A) 產品內容頁
+
+/products/br500.html # Bossmen實驗系列電子防潮櫃 BR500 產品內容頁
+/products/br500a.html # Bossmen實驗系列電子防潮櫃 BR500(A) 產品內容頁
+/products/br508.html # Bossmen實驗系列電子防潮櫃 BR508 產品內容頁
+/products/br508a.html # Bossmen實驗系列電子防潮櫃 BR508(A) 產品內容頁
+/products/br1560.html # Bossmen實驗系列電子防潮櫃 BR1560 產品內容頁
+/products/br1560a.html # Bossmen實驗系列電子防潮櫃 BR1560(A) 產品內容頁
+/products/br1570la.html # Bossmen超低濕系列電子防潮櫃 BR1570L(A) 產品內容頁
+/products/br388la.html # Bossmen超低濕系列電子防潮櫃 BR388L(A) 產品內容頁
+/products/br388.html # Bossmen實驗系列電子防潮櫃 BR388 產品內容頁
+/products/br388a.html # Bossmen實驗系列電子防潮櫃 BR388(A) 產品內容頁
+/products/br508la.html # Bossmen超低濕系列電子防潮櫃 BR508L(A) 產品內容頁
+/products/br500la.html # Bossmen超低濕系列電子防潮櫃 BR500L(A) 產品內容頁
+/products/br688.html # Bossmen實驗系列電子防潮櫃 BR688 產品內容頁
+/products/br688a.html # Bossmen實驗系列電子防潮櫃 BR688(A) 產品內容頁
+/products/br688la.html # Bossmen超低濕系列電子防潮櫃 BR688L(A) 產品內容頁
+/products/br188.html # Bossmen實驗系列電子防潮櫃 BR188 產品內容頁
+/products/br188a.html # Bossmen實驗系列電子防潮櫃 BR188(A) 產品內容頁
+/products/br188la.html # Bossmen超低濕系列電子防潮櫃 BR188L(A) 產品內容頁
+
+/products/ba108.html # Bossmen無磁系列電子防潮櫃 BA108 產品內容頁
+/products/ba108a.html # Bossmen無磁系列電子防潮櫃 BA108(A) 產品內容頁
+/products/ba110.html # Bossmen無磁系列電子防潮櫃 BA110 產品內容頁
+/products/ba110a.html # Bossmen無磁系列電子防潮櫃 BA110(A) 產品內容頁
+/products/ba102.html # Bossmen無磁系列電子防潮櫃 BA102 產品內容頁
+/products/ba102a.html # Bossmen無磁系列電子防潮櫃 BA102(A) 產品內容頁
+/products/ba104.html # Bossmen無磁系列電子防潮櫃 BA104 產品內容頁
+/products/ba104a.html # Bossmen無磁系列電子防潮櫃 BA104(A) 產品內容頁
+
+/products/bn02.html # Bossmen檔案防潮系列電子防潮櫃 BN02 產品內容頁
+/products/bn02a.html # Bossmen檔案防潮系列電子防潮櫃 BN02(A) 產品內容頁
+/products/bn03.html # Bossmen檔案防潮系列電子防潮櫃 BN03 產品內容頁
+/products/bn03a.html # Bossmen檔案防潮系列電子防潮櫃 BN03(A) 產品內容頁
+/products/bn04.html # Bossmen檔案防潮系列電子防潮櫃 BN04 產品內容頁
+/products/bn04a.html # Bossmen檔案防潮系列電子防潮櫃 BN04(A) 產品內容頁
+
+/products/bf858a.html # Bossmen防火防潮櫃 BF858(A) 產品內容頁
+/products/bf119a.html # Bossmen防火防潮櫃 BF119(A) 產品內容頁
+/products/bf317a.html # Bossmen防火防潮櫃 BF317(A) 產品內容頁
+/products/bf83a.html # Bossmen防火防潮櫃 BF83(A) 產品內容頁
+
+/products/bm1319.html # Bossmen不鏽鋼氮氣櫃 BM1319 產品內容頁
+/products/bm1319-2.html # Bossmen不鏽鋼氮氣櫃 BM1319-2 產品內容頁
+/products/bm1353.html # Bossmen不鏽鋼氮氣櫃 BM1353 產品內容頁
+/products/bm1343-2.html # Bossmen不鏽鋼氮氣櫃 BM1343-2 產品內容頁
+/products/bm1278-3.html # Bossmen不鏽鋼氮氣櫃 BM1278-3 產品內容頁
+/products/bm1226.html # Bossmen不鏽鋼氮氣櫃 BM1226 產品內容頁
+/products/bm1229.html # Bossmen不鏽鋼氮氣櫃 BM1229 產品內容頁
+/products/bm1137.html # Bossmen不鏽鋼氮氣櫃 BM1137 產品內容頁
+/products/bm1203.html # Bossmen不鏽鋼氣密櫃 BM1203 產品內容頁
+
+/products/bm1251-4.html # Bossmen氣密避震台車 BM1251-4 產品內容頁
+/products/bm1222.html # Bossmen單面避震台車 BM1222 產品內容頁
+/products/bm3005.html # Bossmen Rack專用升降台車 BM3005 產品內容頁
+/products/bm3007.html # Bossmen探針卡自動門氮氣櫃 BM3007 產品內容頁
+/products/bm3008.html # Bossmen廢料自動升降傾倒台車 BM3008 產品內容頁
+/products/bm1151.html # Bossmen智能Film回溫櫃 BM1151 產品內容頁
+/products/bm1113-4.html # Bossmen微電腦控濕氣密膜架櫃 BM1113-4 產品內容頁
+/products/bm1080-1.html # Bossmen PCB/IC載板氣密乾燥櫃 BM1080-1 產品內容頁
+/products/bm1133-2.html # Bossmen光罩儲存氮氣櫃 BM1133-2 產品內容頁
+
+/products/cm1001.html # Bossmen無塵控濕氮氣櫃 CM1001 產品內容頁
+/products/dd-002h.html # Bossmen上升式金屬控濕展櫃 DD-002H 產品內容頁
+/products/du-001h.html # Bossmen上掀式金屬控濕展櫃 DU-001H 產品內容頁
+/products/du-003h.html # Bossmen上掀式金屬控濕展櫃 DU-003H 產品內容頁
+/products/df-001h.html # Bossmen前開平移式金屬控濕展櫃 DF-001H 產品內容頁
+/products/d90-001h.html # Bossmen 90度開關門金屬控濕展櫃 D90-001H 產品內容頁
+
+/products/2htdp.html # Bossmen溫濕度監控器 2HTDP 產品內容頁
+/products/4htdp.html # Bossmen溫濕度監控器 4HTDP 產品內容頁
+/products/7htdp.html # Bossmen溫濕度監控器 7HTDP 產品內容頁
+/products/ft1dp.html # Bossmen溫度監控器 FT1DP 產品內容頁
+/products/2htcdp.html # Bossmen二氧化碳與溫濕度監控器 2HTCDP 產品內容頁
+/products/2htodp.html # Bossmen氧濃度溫濕度監控系統 2HTODP 產品內容頁
+
+/products/n2ht.html # Bossmen氮氣控制器 N2HT 產品內容頁
+/products/fn2ht.html # Bossmen薄型氮氣控制器 FN2HT 產品內容頁
+/products/fn2ht-fm.html # Bossmen薄型氮氣控制器(含流量計) FN2HT-FM 產品內容頁
+/products/n2hto.html # Bossmen氮氣及氧濃度控制器 N2HTO 產品內容頁
+
+/products/001-3.html # Bossmen控濕手套櫃 001-3 產品內容頁
+/products/bx128-sh.html # Bossmen手套櫃 BX128-SH 產品內容頁
+
+/application/moisture-control-solution.html # 控濕防潮產業應用解決方案
+/application/museum-archive-solution.html # 博物館與文物保存專業解決方案
+/application/semi-pcb-solution.html # 半導體及印刷電路板產業防潮控濕解決方案
+/application/archive-management.html # 檔案管理與專業儲存解決方案
+/application/laboratory-solution.html # 實驗室及科研場域防潮控濕解決方案
+
+/service/curatorial.html # 策展與展場設計服務
+/service/archive-census.html # 文物普查與檔案清查專業服務
+/service/photography.html # 文物攝影與圖像紀錄服務
+/service/relocation.html # 文物搬遷與運送服務
+/service/repair.html # 文物修復專業服務
+/service/consulting.html # 專業規劃與諮詢服務
+
+/page/contact_us.html # 聯絡我們頁面

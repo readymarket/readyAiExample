@@ -1,0 +1,94 @@
+/page/about.html # 關於康揚公司簡介
+/page/history.html # 公司沿革/發展歷程
+/page/team.html # 團隊介紹
+/page/certificate.html # 品質認證與專利證書介紹（ISO9001、FSC、專利等）
+/page/advantage.html # 公司核心優勢與技術服務特色
+/page/production_process.html # 生產流程說明
+/page/prepress_information.html # 印前知識與注意事項
+/page/contact_us.html # 聯繫我們
+/page/privacy_policy.html # 隱私政策說明
+/page/our_customers.html # 主要客戶與合作案例介紹
+
+/category/category.html # 產品分類總覽頁
+/category/material.html # 材料分類總覽（如紙材、合成材料、特殊基材等）
+/category/printing.html # 印刷工藝分類總覽
+/category/application.html # 貼紙應用產業分類總覽
+
+/category/single-sticker.html # 單張貼紙分類說明
+/category/double-sided-sticker.html # 雙面貼紙分類說明
+/category/double-layer-sticker.html # 雙層貼紙分類說明
+/category/booklet-label.html # 書冊貼紙分類說明
+/category/index-booklet-label.html # 標籤書冊貼紙分類說明
+/category/pop-up-sticker.html # 立體/彈跳貼紙分類說明
+/category/share-stickers.html # 分享貼紙/趣味貼紙分類說明
+/category/special-material-sticker.html # 特殊材料貼紙分類說明
+/category/printing-knowledge.html # 印刷知識/技術分類總覽
+
+/category/application-food.html # 食品產業貼紙應用
+/category/application-beverage.html # 飲料產業貼紙應用
+/category/application-pharma.html # 醫藥產業貼紙應用
+/category/application-contact-lens.html # 隱形眼鏡貼紙應用
+/category/application-chemical.html # 化工產業貼紙應用
+/category/application-beauty.html # 美妝/個人護理產業貼紙應用
+/category/application-household.html # 家用品貼紙應用
+/category/application-wine.html # 酒類貼紙應用
+/category/application-electronics.html # 3C/電子產業貼紙應用
+/category/application-stationery.html # 文具與禮品產業貼紙應用
+/category/application-pet.html # 寵物禮品貼紙應用
+
+/products/2-ply-label.html # 2 Ply Label 兩層三面貼紙產品頁
+/products/2-ply-scratch-sticker.html # 2 Ply Scratch Sticker 雙層刮刮貼紙產品頁
+/products/booklet-label.html # Booklet Label 書冊式標籤產品頁
+/products/double-sided-labels-serial-scratch.html # Double Sided Labels With Serial Numbers And Scratch-Off Ink 雙面帶序號刮刮貼紙產品頁
+/products/hidden-label-inside-2-ply-label.html # Hidden Label Inside 2 Ply Label 隱藏式雙層貼紙產品頁
+/products/pop-up-2-sides-printing-stickers.html # Pop Up 2 Sides Printing Stickers 立體雙面印刷貼紙產品頁
+/products/high-quality-pattern-cold-foil-printing.html # High Quality Pattern Cold Foil Printing 高質感花樣冷燙貼紙產品頁
+/products/index-booklet-label-sticker.html # Index Booklet Label/Sticker 標籤書冊貼紙產品頁
+/products/peel-open-surprise-sticker.html # Peel Open Surprise Sticker 開啟驚喜貼紙產品頁
+/products/waterproof-and-reusable-sticker-set.html # Waterproof And Reusable Sticker Set 防水可重複貼紙產品頁
+/products/polycarbonate-label-pc-label.html # Polycarbonate Label/PC Label 聚碳酸酯/PC標籤產品頁
+/products/uv-resistant-stickers.html # UV Resistant Stickers 抗紫外線貼紙產品頁
+/products/fsc-label.html # FSC Label 環保認證貼紙產品頁
+/products/void-anti-counterfeit-label.html # VOID Anti Counterfeit Label 防偽標籤產品頁
+/products/brittle-label.html # Brittle Label 易碎標籤產品頁
+/products/silky-poly-silver-label.html # Silky Poly Silver Label 金屬刷紋銀標籤產品頁
+/products/blanc-paper-label.html # Blanc Paper Label 白卡紙標籤產品頁
+/products/textured-paper.html # Textured Paper 紋路紙貼紙產品頁
+/products/lenticular-cat-eyes-effect-label.html # Lenticular Cat Eyes Effect Label 立體貓眼效果標籤產品頁
+/products/transparent-pet-pvc-label.html # Transparent PET/PVC Label 透明PET/PVC貼紙產品頁
+/products/laser-label.html # Laser Label 鐳射標籤產品頁
+/products/glossy-gold-silver-aluminum-foil-label.html # Glossy Gold/ Silver Aluminum Foil Label 亮面金/銀箔標籤產品頁
+/products/matte-gold-silver-aluminum-foil-label.html # Matte Gold/Silver Aluminum Foil Label 霧面金/銀箔標籤產品頁
+/products/3d-butterfly-stickers.html # 3D Butterfly Stickers 立體蝴蝶貼紙產品頁
+/products/random-serial-qr-codes.html # Random Serial QR Codes 隨機序號QR碼貼紙產品頁
+/products/pop-up-theater-sticker.html # Pop-Up Theater Sticker 立體劇場貼紙產品頁
+/products/share-stickers.html # Share Stickers 分享趣味貼紙產品頁
+/products/single-sticker.html # Single Sticker 單張貼紙產品頁
+/products/color-printing.html # Color Printing 彩色印刷貼紙產品頁
+/products/gold-foil-stamping.html # Gold Foil Stamping/ Silver Foil Stamping/Other Colors Hot Stamping 金/銀/彩色燙印貼紙產品頁
+/products/embossing-debossing.html # Embossing / Debossing 浮雕/凹雕貼紙產品頁
+/products/serial-number-garbled-code-qr-code.html # Serial Number / Garbled Code / QR Code 序號/亂碼/QR貼紙產品頁
+/products/glossy-matt-varnish.html # Glossy/Matt Varnish 亮/霧光油貼紙產品頁
+/products/frosted-finish.html # Frosted Finish 霧面效果貼紙產品頁
+/products/scratch-off-ink.html # Scratch-Off Ink 刮刮銀油墨貼紙產品頁
+/products/partial-adhesive-stickers.html # Partial Adhesive Stickers 局部黏膠貼紙產品頁
+/products/piggyback-label-2-ply-reusable-label.html # Piggyback Label / 2 Ply Reusable Label 可重複黏貼雙層標籤產品頁
+/products/semi-adhesive-double-sided-scratch-label.html # Semi-Adhesive Double-Sided Scratch Label 半黏雙面刮刮貼紙產品頁
+/products/3d-folding-sticker.html # 3D Folding Sticker 立體摺疊貼紙產品頁
+
+/application/food-industry.html # 食品產業貼紙應用案例
+/application/beverage-industry.html # 飲料產業貼紙應用案例
+/application/pharmaceutical-industry.html # 醫藥產業貼紙應用案例
+/application/contact-lens.html # 隱形眼鏡貼紙應用案例
+/application/chemical-industry.html # 化工產業貼紙應用案例
+/application/beauty-cosmetic-industry.html # 美妝/個人護理產業貼紙應用案例
+/application/household-goods.html # 家用品貼紙應用案例
+/application/wine-label.html # 酒類貼紙應用案例
+/application/3c-electronics-industry.html # 3C/電子產業貼紙應用案例
+/application/stationery-and-gifts.html # 文具與禮品產業貼紙應用案例
+/application/pet-gifts.html # 寵物禮品貼紙應用案例
+
+/page/printing_knowledge.html # 印刷知識/流程總覽
+/page/material_introduction.html # 材料介紹總覽
+/page/special_printing.html # 特殊印刷工藝介紹
+/page/product_videos.html # 產品影片/操作展示頁

@@ -1,0 +1,33 @@
+{% extends "layout.html" %}
+
+{% block content %}
+<div class="row">
+    <div class="col-12">
+        <h2 class="mb-4">專案目錄</h2>
+        
+        <div class="list-group">
+            {% for subdir in subdirs %}
+            <div class="list-group-item">
+                <div class="d-flex justify-content-between align-items-center">
+                    <div>
+                        <a href="{{ url_for('browse', directory=subdir) }}" class="text-decoration-none">
+                            <i class="bi bi-folder-fill me-2"></i> {{ subdir }}
+                        </a>
+                    </div>
+                    <span class="badge bg-primary rounded-pill">目錄</span>
+                </div>
+                {% if subdir in profiles %}
+                <div class="mt-2 p-2 bg-light border rounded">
+                    <small class="text-muted"><pre class="mb-0" style="font-size: 0.8rem;">{{ profiles[subdir].split('\n')[:3]|join('\n') }}{% if profiles[subdir].count('\n') > 3 %}...{% endif %}</pre></small>
+                </div>
+                {% endif %}
+            </div>
+            {% else %}
+            <div class="alert alert-info">
+                沒有找到任何目錄
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+</div>
+{% endblock %}

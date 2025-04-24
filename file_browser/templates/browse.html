@@ -1,0 +1,94 @@
+{% extends "layout.html" %}
+
+{% block content %}
+<div class="row">
+    <div class="col-12">
+        <h2 class="mb-4">
+            <a href="{{ url_for('index') }}" class="text-decoration-none">首頁</a> / 
+            {% set path_parts = directory.split('/') %}
+            {% set current_path = '' %}
+            {% for part in path_parts %}
+                {% set current_path = current_path + part %}
+                <a href="{{ url_for('browse', directory=current_path) }}" class="text-decoration-none">{{ part }}</a>
+                {% if not loop.last %}
+                    {% set current_path = current_path + '/' %}
+                    / 
+                {% endif %}
+            {% endfor %}
+            目錄內容
+        </h2>
+        
+        {% if profile_content or outline_think_content %}
+        <div class="card mb-4">
+            <ul class="nav nav-tabs" role="tablist">
+                {% if profile_content %}
+                <li class="nav-item" role="presentation">
+                    <button class="nav-link {% if profile_content %}active{% endif %}" id="profile-tab" data-bs-toggle="tab" data-bs-target="#profile" type="button" role="tab" aria-controls="profile" aria-selected="{% if profile_content %}true{% else %}false{% endif %}">目錄背景資料</button>
+                </li>
+                {% endif %}
+                {% if outline_think_content %}
+                <li class="nav-item" role="presentation">
+                    <button class="nav-link {% if not profile_content %}active{% endif %}" id="outline-think-tab" data-bs-toggle="tab" data-bs-target="#outline-think" type="button" role="tab" aria-controls="outline-think" aria-selected="{% if not profile_content %}true{% else %}false{% endif %}">網站架構思路</button>
+                </li>
+                {% endif %}
+            </ul>
+            <div class="tab-content p-3 border border-top-0 rounded-bottom">
+                {% if profile_content %}
+                <div class="tab-pane fade {% if profile_content %}show active{% endif %}" id="profile" role="tabpanel" aria-labelledby="profile-tab">
+                    <pre class="mb-0">{{ profile_content }}</pre>
+                </div>
+                {% endif %}
+                {% if outline_think_content %}
+                <div class="tab-pane fade {% if not profile_content %}show active{% endif %}" id="outline-think" role="tabpanel" aria-labelledby="outline-think-tab">
+                    <pre class="mb-0">{{ outline_think_content }}</pre>
+                </div>
+                {% endif %}
+            </div>
+        </div>
+        {% endif %}
+        
+        {% if subdirs %}
+        <div class="card mb-4">
+            <div class="card-header">
+                子目錄
+            </div>
+            <div class="list-group list-group-flush">
+                {% for subdir in subdirs %}
+                <a href="{{ url_for('browse', directory=directory+'/'+subdir) }}" class="list-group-item list-group-item-action">
+                    <i class="bi bi-folder-fill me-2"></i> {{ subdir }}
+                    {% if subdir in profiles %}
+                    <div class="mt-2 p-2 bg-light border rounded">
+                        <small class="text-muted"><pre class="mb-0" style="font-size: 0.8rem;">{{ profiles[subdir].split('\n')[:3]|join('\n') }}{% if profiles[subdir].count('\n') > 3 %}...{% endif %}</pre></small>
+                    </div>
+                    {% endif %}
+                </a>
+                {% endfor %}
+            </div>
+        </div>
+        {% endif %}
+        
+        {% if outline %}
+        <div class="card">
+            <div class="card-header">
+                文件列表
+            </div>
+            <div class="list-group list-group-flush">
+                {% for path, info in outline.items() %}
+                <a href="{{ url_for('view_file', directory=directory, file_path=info['md_path'][1:]) }}" class="list-group-item list-group-item-action">
+                    <div class="d-flex w-100 justify-content-between">
+                        <h5 class="mb-1">{{ info['md_path'] }}</h5>
+                    </div>
+                    <p class="mb-1">{{ info['description'] }}</p>
+                    <small class="text-muted">原始路徑: {{ path }}</small>
+                </a>
+                {% endfor %}
+            </div>
+        </div>
+        {% else %}
+        <div class="alert alert-info">
+            沒有找到任何文件大綱
+        </div>
+        {% endif %}
+    </div>
+</div>
+{% endblock %}

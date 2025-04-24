@@ -1,0 +1,165 @@
+/about/company.html # 公司簡介與經營理念
+/about/history.html # 公司沿革與發展歷程
+/about/team.html # 團隊介紹
+/about/patents-certificates.html # 公司專利與國內外認證
+/about/awards.html # 企業榮譽與獲獎紀錄
+/about/clients.html # 主要客戶與合作案例
+
+/page/category.html # 產品分類總覽
+/category/industrial-dry-cabinet.html # 工業用電子防潮櫃分類介紹
+/category/nitrogen-cabinet.html # 氮氣櫃產品分類介紹
+/category/ultra-low-humidity-cabinet.html # 超低濕防潮櫃產品分類介紹
+/category/household-dry-cabinet.html # 家用電子防潮櫃分類介紹
+/category/archival-dry-cabinet.html # 檔案防潮櫃分類介紹
+/category/museum-equipment.html # 博物館展示及庫房設備分類介紹
+/category/humidity-control-system.html # 恆溫恆濕與控濕系統分類介紹
+/category/dehumidification-system.html # 除濕系統產品分類介紹
+/category/glove-box.html # 手套櫃產品分類介紹
+/category/hepa-cabinet.html # HEPA除濕藥品櫃分類介紹
+/category/mobile-cabinet-system.html # 移動櫃架及典藏系統分類介紹
+/category/hanging-drawing-board.html # 懸吊式掛畫架產品分類介紹
+/category/freeze-deworming-system.html # 冷凍除蟲及膠捲冷凍保存系統分類介紹
+/category/fireproof-dry-cabinet.html # 防火防潮櫃產品分類介紹
+/category/magnet-free-cabinet.html # 無磁系列電子防潮櫃分類介紹
+/category/temperature-humidity-monitor.html # 溫濕度監控系統分類介紹
+
+/products/photographer-dry-cabinet-bk138a.html # 博士門攝影家用電子防潮櫃BK138(A)產品內容頁
+/products/photographer-dry-cabinet-bk238.html # 博士門攝影家用電子防潮櫃BK238/BK238(A)產品內容頁
+/products/photographer-dry-cabinet-bk198.html # 博士門攝影家用電子防潮櫃BK198/BK198(A)產品內容頁
+/products/photographer-dry-cabinet-bk158.html # 博士門攝影家用電子防潮櫃BK158/BK158(A)產品內容頁
+/products/photographer-dry-cabinet-bk98.html # 博士門攝影家用電子防潮櫃BK98(A)產品內容頁
+/products/laboratory-dry-cabinet-br500.html # 博士門實驗系列電子防潮櫃BR500/BR500(A)產品內容頁
+/products/laboratory-dry-cabinet-br508.html # 博士門實驗系列電子防潮櫃BR508/BR508(A)產品內容頁
+/products/laboratory-dry-cabinet-br1560.html # 博士門實驗系列電子防潮櫃BR1560/BR1560(A)產品內容頁
+/products/laboratory-dry-cabinet-br1570.html # 博士門實驗系列電子防潮櫃BR1570/BR1570(A)產品內容頁
+/products/laboratory-dry-cabinet-br188.html # 博士門實驗系列電子防潮櫃BR188/BR188(A)產品內容頁
+/products/laboratory-dry-cabinet-br388.html # 博士門實驗系列電子防潮櫃BR388/BR388(A)產品內容頁
+/products/laboratory-dry-cabinet-br688.html # 博士門實驗系列電子防潮櫃BR688/BR688(A)產品內容頁
+/products/ultra-low-humidity-cabinet-br388l.html # 博士門超低濕系列電子防潮櫃BR388L(A)產品內容頁
+/products/ultra-low-humidity-cabinet-br1570l.html # 博士門超低濕系列電子防潮櫃BR1570L(A)產品內容頁
+/products/ultra-low-humidity-cabinet-br1560l.html # 博士門超低濕系列電子防潮櫃BR1560L(A)產品內容頁
+/products/ultra-low-humidity-cabinet-br508l.html # 博士門超低濕系列電子防潮櫃BR508L(A)產品內容頁
+/products/ultra-low-humidity-cabinet-br500l.html # 博士門超低濕系列電子防潮櫃BR500L(A)產品內容頁
+/products/ultra-low-humidity-cabinet-br188l.html # 博士門超低濕系列電子防潮櫃BR188L(A)產品內容頁
+/products/nitrogen-cabinet-bm1319.html # 博士門不鏽鋼氮氣櫃BM1319產品內容頁
+/products/nitrogen-cabinet-bm1319-2.html # 博士門不鏽鋼氮氣櫃BM1319-2產品內容頁
+/products/nitrogen-cabinet-bm1353.html # 博士門不鏽鋼氮氣櫃BM1353產品內容頁
+/products/nitrogen-cabinet-bm1343-2.html # 博士門不鏽鋼氮氣櫃BM1343-2產品內容頁
+/products/nitrogen-cabinet-bm1226.html # 博士門不鏽鋼氮氣櫃BM1226產品內容頁
+/products/nitrogen-cabinet-bm1229.html # 博士門不鏽鋼氮氣櫃BM1229產品內容頁
+/products/nitrogen-cabinet-bm1203.html # 博士門不鏽鋼氣密櫃BM1203產品內容頁
+/products/nitrogen-cabinet-bm1137.html # 博士門不鏽鋼氮氣櫃BM1137產品內容頁
+/products/nitrogen-cabinet-bm1133-2.html # 博士門光罩儲存氮氣櫃BM1133-2產品內容頁
+/products/airtight-dry-cabinet-br500-ca.html # 博士門氣密櫃體BR500-CA/BR500-ECA/BR500-SS產品內容頁
+/products/fireproof-dry-cabinet-bf858.html # 博士門防火防潮櫃BF858(A)產品內容頁
+/products/fireproof-dry-cabinet-bf119.html # 博士門防火防潮櫃BF119(A)產品內容頁
+/products/fireproof-dry-cabinet-bf317.html # 博士門防火防潮櫃BF317(A)產品內容頁
+/products/fireproof-dry-cabinet-bf83.html # 博士門防火防潮櫃BF83(A)產品內容頁
+/products/magnet-free-dry-cabinet-ba102.html # 博士門無磁系列電子防潮櫃BA102/BA102(A)產品內容頁
+/products/magnet-free-dry-cabinet-ba103.html # 博士門無磁系列電子防潮櫃BA103/BA103(A)產品內容頁
+/products/magnet-free-dry-cabinet-ba104.html # 博士門無磁系列電子防潮櫃BA104/BA104(A)產品內容頁
+/products/magnet-free-dry-cabinet-ba105.html # 博士門無磁系列電子防潮櫃BA105/BA105(A)產品內容頁
+/products/magnet-free-dry-cabinet-ba108.html # 博士門無磁系列電子防潮櫃BA108/BA108(A)產品內容頁
+/products/magnet-free-dry-cabinet-ba110.html # 博士門無磁系列電子防潮櫃BA110/BA110(A)產品內容頁
+/products/archival-dry-cabinet-bn02.html # 博士門檔案防潮櫃BN02/BN02(A)產品內容頁
+/products/archival-dry-cabinet-bn03.html # 博士門檔案防潮櫃BN03/BN03(A)產品內容頁
+/products/archival-dry-cabinet-bn04.html # 博士門檔案防潮櫃BN04/BN04(A)產品內容頁
+/products/ultra-low-humidity-cabinet-br388la.html # 博士門超低濕系列BR388L(A)產品內容頁
+/products/ultra-low-humidity-cabinet-br1560la.html # 博士門超低濕系列BR1560L(A)產品內容頁
+/products/ultra-low-humidity-cabinet-br508la.html # 博士門超低濕系列BR508L(A)產品內容頁
+/products/ultra-low-humidity-cabinet-br500la.html # 博士門超低濕系列BR500L(A)產品內容頁
+/products/ultra-low-humidity-cabinet-br188la.html # 博士門超低濕系列BR188L(A)產品內容頁
+/products/film-rewarming-dry-cabinet-bm1151.html # 博士門智能Film回溫櫃BM1151產品內容頁
+/products/film-rewarming-dry-cabinet.html # 博士門Film回溫乾燥模架櫃產品內容頁
+/products/probcard-nitrogen-cabinet-bm3007.html # 博士門探針卡自動門氮氣櫃BM3007產品內容頁
+/products/probcard-nitrogen-cabinet.html # 博士門探針卡儲存氮氣櫃產品內容頁
+/products/airtight-dry-cabinet-br500-ca.html # 博士門氣密櫃體BR500-CA/BR500-ECA/BR500-SS產品內容頁
+/products/airtight-dry-cabinet-br1113-4.html # 博士門微電腦控濕氣密膜架櫃BM1113-4產品內容頁
+/products/airtight-dry-cabinet-bm1356-2.html # 博士門鑽針防潮櫃BM1356-2產品內容頁
+/products/airtight-dry-cabinet-bm1080-1.html # 博士門PCB及IC載板氣密乾燥櫃BM1080-1產品內容頁
+/products/airtight-dry-cabinet-cm1001.html # 博士門無塵控濕氮氣櫃CM1001產品內容頁
+/products/airtight-dry-cabinet.html # 博士門不鏽鋼氣密櫃BM1232產品內容頁
+/products/airtight-dry-cabinet-bm1232.html # 博士門不鏽鋼氣密櫃BM1232產品內容頁
+/products/airtight-dry-cabinet-bm1278-3.html # 博士門不鏽鋼氮氣櫃BM1278-3產品內容頁
+/products/airtight-dry-cabinet-bm1137.html # 博士門不鏽鋼氮氣櫃BM1137產品內容頁
+/products/airtight-dry-cabinet-bm1343-2.html # 博士門不鏽鋼氮氣櫃BM1343-2產品內容頁
+
+/products/humidity-control-cabinet.html # 博士門控濕典藏櫃產品內容頁
+/products/humidity-control-cabinet-df-001h.html # 博士門前開平移式金屬控濕展櫃DF-001H產品內容頁
+/products/humidity-control-cabinet-du-001h.html # 博士門上掀式金屬控濕展櫃DU-001H產品內容頁
+/products/humidity-control-cabinet-du-002h.html # 博士門上掀式電動上掀控濕金屬展櫃DU-002H產品內容頁
+/products/humidity-control-cabinet-d90-001h.html # 博士門90度開關門金屬控濕展櫃D90-001H產品內容頁
+
+/products/freeze-deworming-system.html # 博士門冷凍除蟲系統及膠捲冷凍保存系統產品內容頁
+/products/low-oxygen-humidity-deworming-system.html # 博士門低氧調濕除蟲系統產品內容頁
+
+/products/hanging-drawing-board.html # 博士門懸吊式掛畫板產品內容頁
+/products/mobile-cabinet-system.html # 博士門移動櫃及櫃架系統產品內容頁
+/products/fixed-rack.html # 博士門固定架產品內容頁
+/products/open-rack.html # 博士門開架式移動典藏櫃產品內容頁
+/products/drawer-mobile-cabinet.html # 博士門抽屜式移動典藏櫃產品內容頁
+
+/products/temperature-humidity-monitor-2htdp.html # 博士門溫濕度監控器2HTDP產品內容頁
+/products/temperature-humidity-monitor-4htdp.html # 博士門溫濕度監控器4HTDP產品內容頁
+/products/temperature-humidity-monitor-7htdp.html # 博士門溫濕度監控器7HTDP產品內容頁
+/products/temperature-monitor-ft1dp.html # 博士門溫度監控器FT1DP產品內容頁
+/products/oxygen-temperature-humidity-monitor-2htodp.html # 博士門氧濃度溫濕度監控系統2HTODP產品內容頁
+/products/co2-temperature-humidity-monitor-2htcdp.html # 博士門二氧化碳與溫濕度監控器2HTCDP產品內容頁
+
+/products/glove-box-bx128-sh.html # 博士門手套櫃BX128-SH產品內容頁
+/products/humidity-glove-box-001-3.html # 博士門控濕手套櫃001-3產品內容頁
+
+/products/hepa-dehumidification-cabinet-bm1106.html # 博士門HEPA氣密櫃BM1106產品內容頁
+
+/products/rack-lifting-trolley-bm3005.html # 博士門Rack專用升降台車BM3005產品內容頁
+/products/shock-absorbing-trolley-bm1222.html # 博士門單面避震台車BM1222產品內容頁
+/products/shock-absorbing-trolley-bm1251-4.html # 博士門氣密避震台車BM1251-4產品內容頁
+/products/shock-absorbing-trolley-bm1255.html # 博士門避震控濕台車BM1255產品內容頁
+/products/shock-absorbing-trolley-bm3008.html # 博士門廢料自動升降傾倒台車BM3008產品內容頁
+/products/positive-pressure-trolley-bm1390.html # 博士門正壓台車BM1390產品內容頁
+
+/products/smart-flux-cabinet.html # 博士門智能回溫錫膏櫃產品內容頁
+
+/products/clean-gas-dehumidification-system.html # 博士門潔淨氣體除濕系統FN2HT-FM產品內容頁
+/products/dehumidification-system-rad01.html # 博士門乾燥空氣高效除濕系統RAD01產品內容頁
+
+/products/constant-humidity-system.html # 博士門恆濕主機產品內容頁
+/products/warehouse-constant-temperature-humidity-system-dh502htdp.html # 博士門庫房恆溫恆濕系統DH68+2HTDP產品內容頁
+/products/warehouse-constant-temperature-humidity-system.html # 博士門庫房恆溫恆濕系統產品內容頁
+/products/exhibition-hall-humidity-control-system.html # 博士門展場及庫房大空間控濕系統產品內容頁
+
+/page/application.html # 產品應用與產業解決方案總覽
+/page/application-museum.html # 博物館文物保存與展示應用
+/page/application-semiconductor.html # 半導體產業控濕與防潮應用
+/page/application-pcb.html # 印刷電路板產業防潮控濕應用
+/page/application-laboratory.html # 實驗室及科研單位控濕應用
+/page/application-archival.html # 檔案管理與機關學校防潮應用
+/page/application-household.html # 居家防潮與攝影器材保存應用
+
+/page/solution.html # 產業解決方案與技術說明
+/page/solution-energy-saving.html # 節能環保控濕技術解決方案
+/page/solution-customization.html # 客製化儲存與控濕解決方案
+
+/page/service.html # 專業服務總覽
+/page/service-museum-planning.html # 博物館與檔案庫房設計與建置服務
+/page/service-curation.html # 策展與展場設計服務
+/page/service-conservation.html # 文物修復與保存服務
+/page/service-relocation.html # 文物搬遷與移轉服務
+/page/service-inventory.html # 文物普查與清查服務
+/page/service-photography.html # 文物攝影與影像紀錄服務
+/page/service-archival-scan.html # 檔案管理與影像掃描服務
+
+/page/news.html # 最新消息與新聞總覽
+/news/2024-international-invention-exhibition.html # 2024新加坡國際發明展金牌獎新聞
+/news/2024-national-brand-yushan-award.html # 2024國家品牌玉山獎獲獎新聞
+/news/2023-international-enterprise-innovation-award.html # 2023國際企業創新金鑽獎新聞
+/news/2023-taiwan-japan-excellence-entrepreneur-award.html # 2023台日卓越創業家大賞新聞
+/news/2024-semicon-west.html # 2024美國半導體展SEMICON WEST參展新聞
+/news/2024-taiwan-pcb-expo.html # 2024台灣電路板產業國際展覽會參展新聞
+/news/2024-thailand-electronics-expo.html # 2024泰國電子智慧製造展參展新聞
+/news/2024-philippines-semiconductor-expo.html # 2024菲律賓半導體暨電子產業展參展新聞
+/news/2024-munich-electronics-expo.html # 2024德國慕尼黑電子展參展新聞
+/news/2024-food-machinery-expo.html # 2024台北國際食品機械展參展新聞
+/news/2024-indonesia-taiwan-expo.html # 2024印尼台灣形象展參展新聞
+
+/page/contact-us.html # 聯絡我們頁面
